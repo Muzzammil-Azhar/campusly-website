@@ -2,7 +2,7 @@
 
 The public introduction page for Campusly, with a download link for the Android app.
 
-- Website: hosted on Vercel
+- Website: <https://get.campusly.work>
 - Web app: <https://www.campusly.work>
 - Android download: [latest release](https://github.com/Muzzammil-Azhar/campusly-website/releases/latest)
 

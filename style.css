@@ -288,6 +288,10 @@ h2 {
 .need ul { margin: 0; padding-left: 1.2em; }
 .need li { margin-bottom: 6px; }
 
+.got-link { margin-top: 20px; }
+
+.got-link p { margin: 0; }
+
 .warn {
   max-width: 40rem;
   margin: 20px 0 0;

@@ -292,8 +292,8 @@ h2 {
   max-width: 40rem;
   margin: 20px 0 0;
   padding: 14px 18px;
-  border-left: 3px solid var(--accent);
-  border-radius: 4px;
+  border: 1px solid var(--accent);
+  border-radius: 18px;
   background: var(--paper-soft);
   color: var(--ink-soft);
 }

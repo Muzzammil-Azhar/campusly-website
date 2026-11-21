@@ -292,6 +292,10 @@ h2 {
 
 .got-link p { margin: 0; }
 
+.got-link ul { margin: 10px 0; }
+
+.got-link li strong { overflow-wrap: anywhere; }
+
 .warn {
   max-width: 40rem;
   margin: 20px 0 0;
